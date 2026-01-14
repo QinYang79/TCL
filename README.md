@@ -25,4 +25,4 @@ The Glove models follow [NAAF](https://github.com/CrossmodalGroup/NAAF).
 [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 
 ## Acknowledgements
-The code is based on [VSE_Infty$](https://github.com/woodfrog/vse_infty) and [SGRAF](https://github.com/Paranioar/SGRAF) licensed under Apache 2.0.
+The code is based on [VSE_Infty](https://github.com/woodfrog/vse_infty) and [SGRAF](https://github.com/Paranioar/SGRAF) licensed under Apache 2.0.
